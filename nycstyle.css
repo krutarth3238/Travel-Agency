@@ -1,0 +1,55 @@
+body{
+    background: url(bg1.jpg);
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 0;
+}
+
+#hdr{
+    min-height: 220px;
+    padding-top: 3em;
+    padding-bottom: 0;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+}
+
+img{
+    width: 100%;
+}
+
+h2,h3,p{
+    margin: 0;
+}
+
+.statueofl{
+    width: 40%  ;
+    display: inline-block;
+}
+
+.timessq{
+    width: 40%  ;
+    display: inline-block;
+}
+
+.pizza{
+    width: 40%  ;
+    display: inline-block;
+}
+
+h2,h3,p{
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+
+.contact{
+    background: #0003ae;
+    min-height: 100px;
+}
+
+footer{
+    background: #000000;
+    min-height: 50px;
+    color: #ffffff;
+    line-height: 50px;
+}
