@@ -1,5 +1,5 @@
 body{
-    background: #0048cc;
+    background: url(bg1.jpg);
     color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
@@ -55,7 +55,7 @@ h2,h3,p{
     min-height: 260px;
     position: absolute;
     z-index: -1;
-    opacity: 0.3;
+    opacity: 0.9;
     margin: 0;
 }
 
